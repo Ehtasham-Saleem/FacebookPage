@@ -1,0 +1,164 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: inherit;
+}
+
+#main{
+
+width: 1345px;
+height: 900px;
+
+}
+
+#fb{
+
+  color: blue;
+  font-size: 70px;
+  margin-top: 180px;
+  margin-left: 190px;
+
+}
+
+#tagline1{
+  
+    margin-left: 190px;
+    font-size: 29px;
+}
+
+#tagline2{
+  
+    margin-left: 800px;
+    margin-top: 30px;
+    font-size: 15px;
+    color: black;
+}
+
+#und:hover{
+
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+
+
+#form{
+
+  width: 400px;
+  height: 350px;
+  border:2px solid blue;
+  margin-left: 730px;
+  margin-top: -200px;
+  border-radius: 10px;
+
+}
+
+#field1{
+
+    font-size: 20px;
+    padding: 10px;
+    width: 350px;
+    height: 30px;
+    margin: 12px;
+    border: 1px solid rgb(226, 223, 223);
+    border-radius: 10px;
+}
+
+#field2{
+
+    font-size: 20px;
+    padding: 10px;
+    width: 350px;
+    height: 30px;
+    margin: 12px;
+    border: 1px solid rgb(226, 223, 223);
+    border-radius: 10px;
+    margin-top: 0px;
+}
+
+#btn1{
+
+    font-size: 20px;
+    width: 370px;
+    height: 50px;
+   background-color:blue;
+    color: white;
+    margin: 12px;
+    border-radius: 10px;
+}
+
+#btn2{
+
+
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+   background-color:green;
+   margin-top: 23px;
+   opacity: 0.8;
+    color: white;
+    border-radius: 10px;
+
+}
+
+
+#form p{
+
+    text-align: center;
+    color: blue;
+}
+
+#form a{
+
+
+    text-decoration: none;
+
+}
+
+#form a:hover{
+
+text-decoration: underline;
+text-decoration-color: blue;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
